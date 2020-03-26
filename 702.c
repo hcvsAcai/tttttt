@@ -10,3 +10,4 @@ int main ()
     printf("%s轉換後的整數為%d\n", string, output);
     return 0;
 }
+ytrut msast.;
